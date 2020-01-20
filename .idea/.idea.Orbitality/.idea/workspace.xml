@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f1c9722-11fe-4d4f-b2c3-07da5829f6bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IRocket.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RocketLauncher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Planet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleRocket.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerOverseer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RocketPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rocket.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InitForce.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Magnetic.cs" />
+        <option value="$PROJECT_DIR$/Assets/AddForce.cs" />
+        <option value="$PROJECT_DIR$/Assets/RocketPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/InitForce.cs" />
+        <option value="$PROJECT_DIR$/Assets/AIController.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Planet.cs" />
+        <option value="$PROJECT_DIR$/Assets/SimpleRocket.cs" />
+        <option value="$PROJECT_DIR$/Assets/IRocket.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/RocketLauncher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Rocket.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerOverseer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InitForce.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Planet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RocketPool.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WZ6Y9tAD3HCICeqmwiBEC2DdPM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f1c9722-11fe-4d4f-b2c3-07da5829f6bd" name="Default Changelist" comment="" />
+      <created>1579344815133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579344815133</updated>
+      <workItem from="1579344818102" duration="648000" />
+      <workItem from="1579347690816" duration="171000" />
+      <workItem from="1579347863493" duration="1647000" />
+      <workItem from="1579351216149" duration="513000" />
+      <workItem from="1579351730667" duration="849000" />
+      <workItem from="1579354002908" duration="312000" />
+      <workItem from="1579354316691" duration="1484000" />
+      <workItem from="1579355837641" duration="1859000" />
+      <workItem from="1579357734134" duration="538000" />
+      <workItem from="1579362836890" duration="121000" />
+      <workItem from="1579362959224" duration="1870000" />
+      <workItem from="1579364860427" duration="660000" />
+      <workItem from="1579374079326" duration="1792000" />
+      <workItem from="1579375906902" duration="1097000" />
+      <workItem from="1579377006420" duration="315000" />
+      <workItem from="1579427820305" duration="76000" />
+      <workItem from="1579427897765" duration="1434000" />
+      <workItem from="1579441081519" duration="526000" />
+      <workItem from="1579441609765" duration="1502000" />
+      <workItem from="1579443404659" duration="261000" />
+      <workItem from="1579443667187" duration="1327000" />
+      <workItem from="1579445507253" duration="35000" />
+      <workItem from="1579445543629" duration="1497000" />
+      <workItem from="1579448431517" duration="691000" />
+      <workItem from="1579449706043" duration="62000" />
+      <workItem from="1579451126427" duration="864000" />
+      <workItem from="1579466137855" duration="1791000" />
+      <workItem from="1579467945122" duration="381000" />
+      <workItem from="1579468327661" duration="1423000" />
+      <workItem from="1579469766795" duration="532000" />
+      <workItem from="1579470299970" duration="614000" />
+      <workItem from="1579502343513" duration="442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1579470491147">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1579470491147" />
+  </component>
+</project>
